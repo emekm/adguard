@@ -3,6 +3,4 @@
 ! https://adguard.com/kb/fr/general/ad-filtering/create-own-filters/
 !
 
-
-|| portail-familles.ville-cesson-sevigne.fr/api/files/96
-| https://portail-familles.ville-cesson-sevigne.fr/api/files/96
+||portail-familles.ville-cesson-sevigne.fr/api/files/96
